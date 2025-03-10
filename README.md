@@ -48,6 +48,8 @@ The model is evaluated on a validation set, and the best model is saved based on
 
 **Validation Accuracy (Epoch 50)** : 87.05%
 
+![1741597730088](image/README/1741597730088.png)
+
 ## Acknowledgments
 
 * The Vision Transformer (ViT) architecture is based on the paper [&#34;An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale&#34;](https://arxiv.org/abs/2010.11929) by Dosovitskiy et al.
